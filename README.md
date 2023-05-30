@@ -11,4 +11,4 @@ This repository contains the onboarded informations of the Smart Trust Network A
 
 # testing signed commits
 
-test
+test - neu
